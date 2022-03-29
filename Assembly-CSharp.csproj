@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\LoggingEvenNumbers.cs" />
     <Compile Include="Assets\Scripts\LoggingMultiplicationTable.cs" />
+    <Compile Include="Assets\Scripts\LoggingFactorialNumber.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
